@@ -1,0 +1,11 @@
+{
+  "name": "Zoya Personal AI Agent",
+  "short_name": "Zoya AI",
+  "description": "Voice-first personal AI assistant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090b13",
+  "theme_color": "#090b13",
+  "icons": []
+}
